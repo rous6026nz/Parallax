@@ -1,4 +1,4 @@
-(function( $ ) {
+(function($) {
 	//Intiate Skrollr
 	var s = skrollr.init({
 		render: function(data) {
